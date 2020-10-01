@@ -7,7 +7,7 @@ a {
 }
 
 body {
-    background-image: url("double-bubble-outline.png");
+    background-image: url("double-bubble-outline.png"); /* pulled from subtlepatterns.com */
   }
 
 #card-img-adjust {
