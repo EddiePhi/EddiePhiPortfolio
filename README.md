@@ -5,6 +5,7 @@ DEPLOYED GITHUB PAGES LINK: https://eddiephi.github.io/Responsive-Portfolio/
 DESCRIPTION:
 I built a responsive web portfolio from scratch using Semantic HTML, Bootstrap, and custom CSS. The portfolio has responsive images and functional links to several different pages, each detailing different information about me an what I do as a Software Developer.
 
+I used https://validator.w3.org/nu/ to validate my site.
 
 
 Below are the guidelines I followed for this project:
