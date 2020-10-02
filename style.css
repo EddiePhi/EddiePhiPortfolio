@@ -2,19 +2,10 @@
     color: black;
 }
 
-a {
-    color: white;
-}
-
 body {
-    background-image: url("double-bubble-outline.png"); /* pulled from subtlepatterns.com */
+    background-image: url("double-bubble-outline.png"); /* Pulled from subtlepatterns.com */
   }
 
-#card-img-adjust {
-    height: 100%;
-    width: 50%;
-}
-
-#burlywood-bg {
-    background-color: burlywood;
+a {
+    color: white; /* For visibility */
 }
