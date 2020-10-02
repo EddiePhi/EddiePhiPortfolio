@@ -1,4 +1,15 @@
+---------------------------------------- Personal Notes ----------------------------------------
+DEPLOYED GITHUB PAGES LINK: https://eddiephi.github.io/Responsive-Portfolio/
+
+DESCRIPTION:
+I built a responsive web portfolio from scratch using Semantic HTML, Bootstrap, and custom CSS. The portfolio has responsive images and functional links to several different pages, each detailing different information about me an what I do as a Software Developer.
+
+
+
+Below are the guidelines I followed for this project:
+
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+
 
 Responsive design ensures that web applications render well on a variety of devices and window or screen sizes. As a developer, you will likely be asked to create a mobile-first application or add responsive design to an existing application. 
 
