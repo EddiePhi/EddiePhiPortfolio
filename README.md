@@ -1,4 +1,5 @@
 ---------------------------------------- Personal Notes ----------------------------------------
+
 DEPLOYED GITHUB PAGES LINK: https://eddiephi.github.io/Responsive-Portfolio/
 
 DESCRIPTION:
