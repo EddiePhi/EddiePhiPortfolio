@@ -11,14 +11,19 @@ TECHNOLOGIES: HTML5, CSS3, Bootstrap.
 
 LICENSE: MIT
 
+I used https://validator.w3.org/nu/ to validate my work.
+
 CONTACT: 
 
 EMAIL: ephimansone@gmail.com 
+
 LINKEDIN: https://linkedin.com/in/eddiephi
+
 GITHUB: https://github.com/EddiePhi
+
 PORTFOLIO: https://eddiephi.github.io/EddiePhiPortfolio/
 
-I used https://validator.w3.org/nu/ to validate my work.
+
 
 
 
