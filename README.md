@@ -13,7 +13,7 @@ LICENSE: MIT
 
 I used https://validator.w3.org/nu/ to validate my work.
 
-CONTACT: 
+-------------------------------------------------- CONTACT --------------------------------------------------
 
 EMAIL: ephimansone@gmail.com 
 
