@@ -1,6 +1,6 @@
 # Eddie Phimansone Portfolio
 
----------------------------------------- Personal Notes ----------------------------------------
+-------------------------------------------------- Personal Notes --------------------------------------------------
 
 DEPLOYED GITHUB PAGES LINK: https://eddiephi.github.io/EddiePhiPortfolio/
 
@@ -13,7 +13,7 @@ LICENSE: MIT
 
 I used https://validator.w3.org/nu/ to validate my work.
 
--------------------------------------------------- CONTACT --------------------------------------------------
+------------------------------------------------------ CONTACT ------------------------------------------------------
 
 EMAIL: ephimansone@gmail.com 
 
