@@ -2,26 +2,26 @@
 
 -------------------------------------------------- Personal Notes -------------------------------------------------
 
-DEPLOYED GITHUB PAGES LINK: https://eddiephi.github.io/EddiePhiPortfolio/
+Deployed GitHub Pages Link: https://eddiephi.github.io/EddiePhiPortfolio/
 
-DESCRIPTION:
+Description:
 I built a responsive web portfolio from scratch using Semantic HTML, Bootstrap, and custom CSS. The portfolio has responsive images and functional links to several different pages, each detailing different information about me an what I do as a Software Developer.
 
-TECHNOLOGIES: HTML5, CSS3, Bootstrap.
+Technologies: HTML5, CSS3, Bootstrap
 
-LICENSE: MIT
+License: MIT
 
 I used https://validator.w3.org/nu/ to validate my work.
 
----------------------------------------------------- CONTACT ----------------------------------------------------
+---------------------------------------------------- Contact ----------------------------------------------------
 
-EMAIL: ephimansone@gmail.com 
+Email: ephimansone@gmail.com 
 
-LINKEDIN: https://linkedin.com/in/eddiephi
+LinkedIn: https://linkedin.com/in/eddiephi
 
-GITHUB: https://github.com/EddiePhi
+GitHub: https://github.com/EddiePhi
 
-PORTFOLIO: https://eddiephi.github.io/EddiePhiPortfolio/
+Portfolio: https://eddiephi.github.io/EddiePhiPortfolio/
 
 
 
