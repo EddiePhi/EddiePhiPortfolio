@@ -1,0 +1,11 @@
+* {
+    color: black;
+}
+
+body {
+    background-image: url("./Images/double-bubble-outline/double-bubble-outline.png"); /* Pulled from subtlepatterns.com */
+  }
+
+a {
+    color: white; /* For visibility */
+}
