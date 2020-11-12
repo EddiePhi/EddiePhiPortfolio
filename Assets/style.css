@@ -14,6 +14,10 @@ a {
     margin-top: 5%;
 }
 
+.tab {
+    margin-left: 5%;
+}
+
 .blank {
     visibility: hidden;
 }
