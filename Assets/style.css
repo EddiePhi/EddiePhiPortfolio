@@ -9,3 +9,11 @@ body {
 a {
     color: white; /* For visibility */
 }
+
+.space {
+    margin-top: 5%;
+}
+
+.blank {
+    visibility: hidden;
+}

@@ -12,17 +12,18 @@
 </head>
 <body>
     <!-- Navbar content -->
-    <nav class="navbar navbar-dark bg-primary">
-        <nav><a href="./index.html">Eddie Phimansone</a></nav>
-        <nav><a href="./Assets/about.html">About</a></nav>
-        <nav><a href="./Assets/portfolio.html">Portfolio</a></nav>
-        <nav><a href="./Assets/contact.html">Contact</a></nav>
+    <nav class="navbar navbar-dark bg-primary fixed-top">
+        <nav><a href="#eddie">Eddie Phimansone</a></nav>
+        <nav><a href="#about">About</a></nav>
+        <nav><a href="#portfolio">Portfolio</a></nav>
+        <nav><a href="#contact">Contact</a></nav>
+
     </nav>
-    <br>
-        
-    <!-- Responsive Bootstrap container + card -->    
-    <main class="container d-flex justify-content-center">
-        <section class="card" style="width: 48rem;">
+
+    <!-- Intro -->
+    <div id="eddie" class="blank">blank</div> <!-- Added to prevent Navbar from cutting off h2 content -->
+    <main class="container d-flex justify-content-center space">
+        <section class="card" style="width: 64rem;">
             <section class="card-body">
                 <h2 class="card-title">Howdy!</h2>
                 <section class="row">
@@ -32,6 +33,170 @@
             </section>
         </section>
     </main>
+
+    <!-- About -->
+    <div id="about" class="blank">blank</div> <!-- Added to prevent Navbar from cutting off h2 content -->
+    <main class="container d-flex justify-content-center space">
+        <section class="card" style="width: 64rem;">
+            <section class="card-body">
+                <h2 class="card-title">About Me</h2>
+                <section class="row">
+                    <img class="container col-md-4" src="./Images/urbanagriculture.jpg" alt="Urban Farming">
+                    <p  class="card-text col-md-8">
+                        Tech Support Agent with an eagerness to empower others. 
+                        Has their eyes set on a full-time web development position. 
+                        Experienced in developing with the MERN stack. 
+                        Proficient in maintaining computer systems and networks. 
+                        Organization and problem-solving remain their top qualities.
+                    </p>
+                </section>
+            </section>
+        </section>
+    </main>  
+
+    <!-- Portfolio -->
+    <div id="portfolio" class="blank">blank</div> <!-- Added to prevent Navbar from cutting off h2 content -->
+    <main class="container d-flex justify-content-center space">
+        <section class="card" style="width: 64rem;">
+            <section class="card-body">
+                <section>
+                    <h2  class="card-title">Portfolio</h2>
+                </section>
+                <div class="row">
+                    <div class="col-md-4">
+                        <img class="col-md-12" src="./Assets/Images/hikerhelper.png" alt="Hiker Helper">
+                        <!-- Trigger the modal with a button -->
+                        <div class="row d-flex justify-content-center">
+                            <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#hikerHelper">Hiker Helper</button>
+                        </div>
+                        <!-- Modal -->
+                        <div id="hikerHelper" class="modal fade" role="dialog">
+                            <div class="modal-dialog modal-xl">
+
+                                <!-- Modal content-->
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h4 class="modal-title">Hiker Helper</h4>
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    </div>
+                                <div class="modal-body">
+                                    <img class="col-md-12" src="./Assets/Images/hikerhelper.png" alt="Hiker Helper">
+                                    <p>Deployed Link: <a></a></p>
+                                    <p>GitHub Repo: <a></a></p>
+                                    <p>Description: <a></a></p>
+                                    <p>Technologies Used: </p>
+                                </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <img class="col-md-12" src="./Assets/Images/hikerhelper.png" alt="Placeholder">
+                        <!-- Trigger the modal with a button -->
+                        <div class="row d-flex justify-content-center">
+                            <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#workDaySched">Work Day Scheduler</button>
+                        </div>
+                        <!-- Modal -->
+                        <div id="workDaySched" class="modal fade" role="dialog">
+                            <div class="modal-dialog modal-xl">
+
+                                <!-- Modal content-->
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h4 class="modal-title">Work Day Scheduler</h4>
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    </div>
+                                <div class="modal-body">
+                                    <img class="col-md-12" src="./Assets/Images/hikerhelper.png" alt="Hiker Helper">
+                                    <p>Deployed Link: <a></a></p>
+                                    <p>GitHub Repo: <a></a></p>
+                                    <p>Description: <a></a></p>
+                                    <p>Technologies Used: </p>
+                                </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <img class="col-md-12" src="./Assets/Images/hikerhelper.png" alt="Placeholder">
+                        <!-- Trigger the modal with a button -->
+                        <div class="row d-flex justify-content-center">
+                            <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#pwGen">Password Generator</button>
+                        </div>
+                        <!-- Modal -->
+                        <div id="pwGen" class="modal fade" role="dialog">
+                            <div class="modal-dialog modal-xl">
+
+                                <!-- Modal content-->
+                                <div class="modal-content">
+                                    <div class="modal-header">
+                                        <h4 class="modal-title">Password Generator</h4>
+                                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                    </div>
+                                <div class="modal-body">
+                                    <img class="col-md-12" src="./Assets/Images/hikerhelper.png" alt="Hiker Helper">
+                                    <p>Deployed Link: <a></a></p>
+                                    <p>GitHub Repo: <a></a></p>
+                                    <p>Description: <a></a></p>
+                                    <p>Technologies Used: </p>
+                                </div>
+                                    <div class="modal-footer">
+                                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+            </section>  
+        </section>
+    </main>
+
+    <!-- Contact -->
+    <div id="contact" class="blank">blank</div> <!-- Added to prevent Navbar from cutting off h2 content -->
+    <main class="container d-flex justify-content-center space">
+        <section class="card" style="width: 64rem;">
+            <section class="card-body">
+            <h2 class="card-title">Contact</h2>
+            <section class="row">
+                <section class="row col-md-1"> </section>
+                <section class="col-md-5">
+                <img src="./Images/contact.jpg" class="card-img-top" alt="Contact">
+                <section class="row"></section>
+                </section>
+                <section class="col-md-6">
+                <a style="color: black;" href="https://www.linkedin.com/in/eddie-phimansone-404565155/">Here's my Linkedin.</a>
+                <a style="color: black;" href="https://github.com/EddiePhi">Here's my GitHub.</a>
+                <p></p>
+                    <p class="card-text">Feel free to reach out! I'm always happy to connect.</p>
+                    <form>
+                    <section class="form-group">
+                        <label for="exampleFormControlInput1">Email address</label>
+                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                    </section>
+                    <section class="form-group">
+                        <label for="exampleFormControlTextarea1">Message:</label>
+                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+                    </section>
+                    <input class="btn btn-primary" type="submit" value="Submit">
+                    </form>
+                </section>
+            </section>
+            </section>
+        </section>
+    </main>
+
+
 
     <!-- Using BootStrap CDN from https://getbootstrap.com/ -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
