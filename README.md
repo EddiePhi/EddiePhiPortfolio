@@ -9,6 +9,9 @@ I built a responsive web portfolio from scratch using Semantic HTML, Bootstrap, 
 
 Technologies: HTML5, CSS3, Bootstrap
 
+Screenshot: 
+![Portfolio](./Assets/Images/portfolio.png)
+
 License: MIT
 
 I used https://validator.w3.org/nu/ to validate my work.
